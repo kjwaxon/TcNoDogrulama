@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\CSharppart3\TcNo\bin\Debug\TcNo.exe.config
+C:\Users\Asus\source\repos\CSharppart3\TcNo\bin\Debug\TcNo.exe
+C:\Users\Asus\source\repos\CSharppart3\TcNo\bin\Debug\TcNo.pdb
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.Form1.resources
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.Properties.Resources.resources
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.exe
+C:\Users\Asus\source\repos\CSharppart3\TcNo\obj\Debug\TcNo.pdb
